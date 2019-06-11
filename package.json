@@ -4,7 +4,8 @@
   "description": "Esse tutorial descreve como criar uma API Restful mínima com o Node.JS. O código gabarito é deixado como referência aqui e pode ser baixado pelo comando",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/server.js"
   },
   "repository": {
     "type": "git",
